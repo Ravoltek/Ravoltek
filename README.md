@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+#Mes compétences
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,bash,c)](https://skillicons.dev)
