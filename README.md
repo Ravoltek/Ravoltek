@@ -5,4 +5,5 @@
 - 📫 How to reach me ...
 
 #Mes compétences
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,bash,c)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,bash,c,linux)](https://skillicons.dev)
