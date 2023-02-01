@@ -8,4 +8,4 @@
 - 🔍 I am always looking for the latest vulnerabilities and security best practices.
 
 ⚡️ My skills: 
-[![My Skills](https://skillicons.dev/icons?i=python,php,html,css,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,html,css,bash,linux,arduino)](https://skillicons.dev)
