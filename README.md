@@ -1,14 +1,11 @@
 [![Ravoltek header](https://images2.alphacoders.com/971/thumbbig-971586.webp)](https://images2.alphacoders.com/971/thumbbig-971586.webp)
 
-# Bienvenue sur mon compte Github, Passionné de Cybersécurité 💻
+# Welcome to my Github account, Passionate about Cybersecurity 💻
 
-- 👋 Bonjour, je suis @Ravoltek, j'ai 22 ans et ma passion est la cybersécurité 🔐
-- 💻 Je suis actuellement en étude d'informatique en bac +2.
-- 💪 Je participe régulièrement a des CTF Tryhackme et Root-me pour tester mes compétences en cybersécurité.
-- 🔍 Je suis toujours à la recherche des dernières vulnérabilités et des meilleures pratiques de sécurité.
+- 👋 Hi, I'm @Ravoltek, I'm 22 years old and my passion is cybersecurity 🔐
+- 💻 I'm currently studying computer science as a bachelor.
+- 💪 I regularly participate to Tryhackme and Root-me CTFs to test my cybersecurity skills.
+- 🔍 I am always looking for the latest vulnerabilities and security best practices.
 
-
-
-⚡️ Mes compétences: 
+⚡️ My skills: 
 [![My Skills](https://skillicons.dev/icons?i=python,php,html,css,bash,linux)](https://skillicons.dev)
-
