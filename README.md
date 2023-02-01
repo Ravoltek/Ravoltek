@@ -1,6 +1,6 @@
 [![Ravoltek header](https://images2.alphacoders.com/971/thumbbig-971586.webp)](https://images2.alphacoders.com/971/thumbbig-971586.webp)
 
-# Welcome to my Github account, Passionate about Cybersecurity 💻 👀
+# Welcome to my Github account, Passionate about Cybersecurity 💻
 
 - 👋 Hi, I'm @Ravoltek, I'm 22 years old and my passion is cybersecurity 🔐
 - 💻 I'm currently studying computer science as a bachelor.
