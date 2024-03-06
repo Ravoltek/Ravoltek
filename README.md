@@ -2,8 +2,8 @@
 
 # Welcome to my Github account, Passionate about Cybersecurity 💻
 
-- 👋 Hi, I'm @Ravoltek, I'm 22 years old and my passion is cybersecurity 🔐
-- 💻 I'm currently studying computer science as a bachelor.
+- 👋 Hi, I'm @Ravoltek, my passion is cybersecurity 🔐
+- 💻 I'm currently studying cybersecurity.
 - 💪 I regularly participate to Tryhackme and Root-me CTFs to test my cybersecurity skills.
 - 🔍 I am always looking for the latest vulnerabilities and security best practices.
 
